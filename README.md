@@ -1,4 +1,4 @@
-# hypernative devops task
+# devops task
 
 ### Instructions
 - Find what can be improved in the codebase
@@ -14,3 +14,5 @@
 - Commit the Terraform script to the repository as well
 - Run the CI/CD pipeline and verify everything is working as expected
 - Examine the logs of the lambda, verifying everything is correct
+
+Changes were done in the [PR](https://github.com/PavelGural/aws-lambda-deploy/pull/1)
